@@ -1,9 +1,15 @@
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3c2ca1f-2826-4e73-8005-494674e2ed7f" /># Nama : Pudael Zikri
+# Nama : Pudael Zikri
 # NIM : F1D02310088
 
 ## Tampilan Awal
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/1ec1aa72-c10e-4f0a-a1af-30e6f2abf22d" />
 
 ## Tampilan Semua Data Terinput
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/8f9c0c65-3be7-426b-873c-21f65d9d4c3d" />
+
 ## Tampilan Tanpa Input Nama
-## Tampilan Tanpa Input Jenis Kelamin!
-![16e352cc-1667-4c37-b57f-bc8920be046c](https://github.com/user-attachments/assets/2dfd4e34-9114-4aa1-898b-9de8a33a48b7)
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/e8d8dbcd-3674-43d4-a58f-1a088df5d2b5" />
+
+## Tampilan Tanpa Input Jenis Kelamin
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/8163d157-d198-419f-ac3a-4a4ebd28c109" />
+
